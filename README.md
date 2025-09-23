@@ -9,7 +9,6 @@
 
 Em construção
 
-<img src="python-file.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
 
 
 ## Autor  
