@@ -6,8 +6,9 @@
 
 ## Projetos desenvolvidos 🚀  
 <img src="python-computer.png" min-width="150px" max-width="150" width="150px" align="right" alt="Computador">
+<br><br>
 
-Em construção
+###Em construção
 
 <br><br>
 
